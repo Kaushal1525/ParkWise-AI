@@ -1,12 +1,11 @@
 🚗 ParkWise AI - Smart Parking Management System
-📌 About
 ParkWise AI is an intelligent parking management system designed to efficiently handle parking spot allocation, vehicle tracking, and real-time availability updates. The system provides a GUI-based interface to manage parking operations with functionalities such as:
 
 Automatic slot allocation for incoming vehicles
 Real-time parking status display with visual indicators
 Parking history tracking
 QR Code scanning (future feature)
-🖼️ User Interface
+ User Interface
 The UI displays parking slots categorized into three rows:
 
 A1 - A10
